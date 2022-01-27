@@ -38,9 +38,6 @@ diamonds_subset<- diamonds %>%
 ### to plot, summarize, calculate something simple using the diamonds
 ### dataset.
 
-ggplot(data = diamonds, aes(x= price, y = depth)) +
-  geom_point()
-
 
 ```
 
